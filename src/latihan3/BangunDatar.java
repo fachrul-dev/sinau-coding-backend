@@ -21,6 +21,7 @@ public class BangunDatar {
                 hitung.persegi();
             else if (a == 2)
                 hitung.p_panjang();
+
             else if (a == 3)
                 hitung.lingkaran();
             else if (a == 4)
