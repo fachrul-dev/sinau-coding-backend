@@ -12,7 +12,7 @@ public class BangunDatar {
             Hitung hitung = new Hitung();
             Scanner input = new Scanner(System.in);
             double a;
-            System.out.println("Menghitung Kalkulator");
+            System.out.println("Menghitung Luas Bangun Datar");
             System.out.println("1=> Persegi \n2.=> Persegi Panjang \n3.=> Lingkaran \n4.=> Segitiga \n");
             System.out.println("Masukkan pilihan = ");
             a = input.nextDouble();
